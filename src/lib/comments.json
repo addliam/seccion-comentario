@@ -1,0 +1,65 @@
+[
+{
+    "author": "Juan Carlos",
+    "avatar": "/src/assets/avatars/avatar4.png",
+    "content": "Non commodo aliquip velit tempor aute eiusmod Lorem tempor. Adipisicing tempor cupidatat elit nulla sunt sit excepteur quis aliquip minim cillum officia Lorem ea. Duis occaecat ipsum esse mollit amet minim adipisicing eiusmod reprehenderit consequat qui consequat.",
+    "likes": 32,
+    "date": "2022-04-12T23:50:21.817Z",
+    "repplies": [
+        {
+            "author": "Smith Johnson",
+            "avatar": "/src/assets/avatars/avatar1.png",
+            "content": "Mollit laboris sit laborum labore nisi.",
+            "likes": 10,
+            "date": "2022-10-12T23:50:21.817Z"            
+        }
+    ]
+},
+{
+    "author": "Marcelo",
+    "avatar": "/src/assets/avatars/avatar9.png",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit voluptatum, eos unde deleniti dignissimos repellat tenetur? Sequi, suscipit et, sed cupiditate saepe cumque porro corporis officia nam obcaecati possimus hic",
+    "likes": 18,
+    "date": "2022-04-12T23:50:21.817Z",
+    "repplies": [
+        {
+            "author": "Calvin Klein",
+            "avatar": "/src/assets/avatars/avatar2.png",
+            "content": "Nulla culpa est anim incididunt. Ad enim veniam excepteur quis laborum laboris occaecat. Incididunt ad minim sint commodo in ullamco amet ullamco et in. Ut ad dolor ut culpa incididunt pariatur esse adipisicing exercitation amet irure deserunt voluptate.",
+            "likes": 4,
+            "date": "2022-10-12T23:50:21.817Z"            
+        },
+        {
+            "author": "Killer 99",
+            "avatar": "/src/assets/avatars/avatar6.png",
+            "content": "Adipisicing laboris nisi tempor nostrud commodo cupidatat aliqua nulla incididunt deserunt aliqua laborum.",
+            "likes": 1,
+            "date": "2022-05-12T23:50:21.817Z"            
+        }
+    ]
+},
+{
+    "author": "Selena Tobias",
+    "avatar": "/src/assets/avatars/avatar10.png",
+    "content": "Ut esse ipsum quis eiusmod nisi mollit cupidatat eu culpa commodo aliquip veniam esse magna.",
+    "likes": 0,
+    "date": "2022-04-12T23:50:21.817Z",
+    "repplies": []
+},
+{
+    "author": "Sara Albina",
+    "avatar": "/src/assets/avatars/avatar8.png",
+    "content": "Non commodo aliquip velit tempor aute eiusmod Lorem tempor. Adipisicing tempor cupidatat elit nulla sunt sit excepteur quis aliquip minim cillum officia Lorem ea. Duis occaecat ipsum esse mollit amet minim adipisicing eiusmod reprehenderit consequat qui consequat.",
+    "likes": 13,
+    "date": "2022-04-12T23:50:21.817Z",
+    "repplies": [
+        {
+            "author": "Smith Johnson",
+            "avatar": "/src/assets/avatars/avatar7.png",
+            "content": "Minim anim aliquip ad irure fugiat ipsum adipisicing tempor magna aute et qui. In ea officia commodo nulla adipisicing. Et laboris laborum qui ad culpa exercitation aute labore quis non duis ex Lorem irure.",
+            "likes": 10,
+            "date": "2022-10-12T23:50:21.817Z"            
+        }
+    ]
+}
+]

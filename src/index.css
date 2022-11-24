@@ -22,6 +22,20 @@ body {
 .clickable_contrast:hover > span{
   font-weight: 500;
 }
+.heart_container:active{
+  transition: transform 80ms ease-in-out;
+  transform: scale(0.7);
+}
+.comment_medium::before{
+  z-index: -10;
+  content: '';
+  width: 2.5px;
+  height: 20em;
+  top: -2.5em;
+  left: -3.5em;
+  background-color: #D6D6D6;
+  position: absolute;
+}
 .debug{
   border: 2px solid #00691a;
 }
