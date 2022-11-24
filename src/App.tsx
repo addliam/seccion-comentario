@@ -3,8 +3,10 @@ import CommentList from './components/CommentList'
 
 const App = () => {
   return (
-    <main>
-      <CommentList />
+    <main className='py-[2em]'>
+      <div className='w-full flex justify-center'>
+        <CommentList />
+      </div>
     </main>
   )
 }

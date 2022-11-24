@@ -13,3 +13,18 @@ body {
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   min-height: 100vh;
 }
+.touchable_container{
+  transition: transform 100ms ease-in;
+}
+.touchable_container:hover > img{
+  transform: scale(1.1);
+}
+.clickable_contrast:hover > span{
+  font-weight: 500;
+}
+.debug{
+  border: 2px solid #00691a;
+}
+.box_shadowed{
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
